@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Panier2.cs" />
     <Compile Include="Panier.cs" />
     <Compile Include="Produit.cs" />
     <Compile Include="Program.cs" />
